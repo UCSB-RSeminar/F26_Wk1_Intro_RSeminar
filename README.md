@@ -45,7 +45,7 @@ Click the blue down arrow to pull changes from the remote server, then hit the c
 
 If everything has gone smooth, you are ready to push changes to the remote server. Do that by clicking the "Push" button. Now you are ready to do another chunk of work. Save, Pull, Commit, Push, Repeat.
 
-When you are done with the code, email Sebastian (sescobaralonso@ucsb.edu) your repository link, and he will fork the repository to the R Seminar Organization so that the rest of the group can easily find it.
+When you are done with the code, email Sebastián (sescobaralonso@ucsb.edu) your repository link, and he will fork the repository to the R Seminar Organization so that the rest of the group can easily find it.
 
 Note on public vs. private repositories
 The default for GitHub (and this seminar) is to have all of the files in a repository, including code and data, open for public examination. If that is not possible (for example you are using someone else's data), you can choose to keep a repository private when you create it. To do so without paying for a GitHub subscription, you will need to apply for an education discount (https://education.github.com/). After you get the discount, you can select the "Private" option when you create a new repository. This repository will not be visible to anyone except you by default. In order to share it with the rest of the seminar, you will need to give me access to this repository so I can create a "fork" of it that will be visible to the rest of the seminar participants, but not the general public. To do this, go to the repository's website, and click the "Settings" link on the right-hand side of the page, and then select the "Collaborators" tab. Add my GitHub username (@leanderegg) to the collaborators list.
